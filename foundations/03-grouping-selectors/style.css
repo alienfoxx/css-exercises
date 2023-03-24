@@ -1,0 +1,12 @@
+.one{
+    background-color: black;
+    color: #fffff0;
+}
+.tow{
+    background-color: yellow;
+}
+button ,.one ,.tow {
+    font-size: 28px;
+    font-family: 'Helvetic','Times New Roman',sans-serif;
+
+}
