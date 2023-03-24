@@ -1,0 +1,19 @@
+.oddNumbers{
+    background-color: #f5bdbd;
+    font-family: 'Verdana' , 'DejaVu sans' , 'sans-serif';
+
+
+}
+.oddNumbers .adjust-font-size{
+    font-size: 24px;
+}
+#firstId{
+    color: #125b91;
+    font-size: 36px;
+}
+
+#secondeId{
+    background-color: #2bed3a;
+    font-size: 24px;
+    font-weight: bold;
+}
